@@ -1,1 +1,1 @@
-Sahib
+print("Sahib")
